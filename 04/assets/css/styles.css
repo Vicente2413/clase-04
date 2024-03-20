@@ -1,0 +1,13 @@
+header h1{
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: rgb(43, 43, 199);
+    max-width: 80%;
+    color: white;
+    margin: 0 auto;
+    margin-top: 1rem;
+    border-radius: .3rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
